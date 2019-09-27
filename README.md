@@ -17,3 +17,7 @@ Example output for project DawnlightSearch:
 |Russian (ru) |[Pavel Levchuk ( lev4uk_pavel2)](https://hosted.weblate.org/user/lev4uk_pavel2/)<br>[Schwonder Reismus ( schw0reismus)](https://hosted.weblate.org/user/schw0reismus/)|
 |Ukrainian (uk) |[uievawkejf ( uievawkejf)](https://hosted.weblate.org/user/uievawkejf/)|
 |Chinese (Simplified) (zh_Hans) |[Allan Nordhøy ( kingu)](https://hosted.weblate.org/user/kingu/)|
+
+# How to use:
+1. Modify **project_name**, and **user_url_excluded** accordingly.
+2. Run and get the markdown output.
